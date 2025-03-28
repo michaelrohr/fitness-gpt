@@ -1,0 +1,1 @@
+export default function GoalCoachDialog({ email }: { email: string }) { return <div>Ziel-Coach (Demo) für {email}</div>; }

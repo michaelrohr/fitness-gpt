@@ -1,0 +1,1 @@
+export default function WeeklyPlanDisplay({ email }: { email: string }) { return <div>Wochenplan (Demo) für {email}</div>; }

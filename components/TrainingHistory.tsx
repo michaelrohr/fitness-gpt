@@ -1,0 +1,1 @@
+export default function TrainingHistory({ email }: { email: string }) { return <div>Historie (Demo) für {email}</div>; }

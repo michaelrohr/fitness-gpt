@@ -1,0 +1,1 @@
+export default function TrainingCalendar({ email }: { email: string }) { return <div>Kalender (Demo) für {email}</div>; }
